@@ -1,0 +1,16 @@
+{
+    "prefix": "1",
+  
+    "clientID": "",
+    "token": "MTI1ODg0NzQzODg1NzU3MjUyNg.GUt0kF.ctbmQBFLtJMQ9dPbTOzBJePBEpAyt4Z3yxTwmw", 
+    "token6": "MTI1ODkxOTUzMjk3MDY0MzU0Ng.G9Uz6J.0PG6nxVy_Q6bzIpi9g54ZBaj05Yee-LeRYqXDY", 
+    "token7": "MTI1ODkxOTg0MDE5OTA4NjE2MA.GMfcsP.3jQvL-JpSucm9k4tBWZk7ywDz14Xq0KcUGTNSI", 
+    "token8": "MTI1ODkyMDE3NTY4ODg4MDE2OA.GKLTC6.-2ZU4vcE2CI70tWjsrd1ltD94lI7LuahsFKK9g", 
+    "guildID": "",
+    "youtubeCookie": "",
+    "spotify_api": {
+        "enabled": true,
+        "clientId": "2d2becbcf53a4d778770758c6f9d4a67",
+        "clientSecret": "3047e7fbded34ff887a109cd47877338"
+    }
+}
